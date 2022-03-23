@@ -19,5 +19,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marpolos&show_icons=true&locale=en&layout=compact" alt="marpolos" /></p>
 
-![image](https://user-images.githubusercontent.com/91914078/159760151-12a1aa1f-6d60-4fc8-85a1-80f2e077aaf7.png)
+![Alt Text](https://media0.giphy.com/media/1eEH7dQ2xwN95RwGQf/giphy.gif?cid=ecf05e47kmn2tws6i27sqdddinjen6fl0popsqmoxf6viowm&rid=giphy.gif&ct=g)
 
