@@ -1,6 +1,8 @@
 <h1 align="center">Olá 👋, eu me chamo Marcelle Monteiro</h1>
 <h3 align="center">Tornando-me um desenvolvedora full stack</h3>
 
+![Alt Text](https://media2.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif?cid=ecf05e476wkpljp26yt4gfzssamg2khtcv7vdf5yhbo1cuu9&rid=giphy.gif&ct=g)
+
 - 🌱 Estou (terminando) o módulo de **front-end com muito react, redux e hooks. (Veja meus projetos)**
 
 - 👨‍💻 Visite meu portfólio [marpolos.github.io/](marpolos.github.io/)
