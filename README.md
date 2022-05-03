@@ -3,7 +3,7 @@
 
 - 🌱 Estou no módulo de **back-end aqui na TRYBE. (Veja meus projetos)**
 
-- 👨‍💻 Visite meu portfólio [marpolos.github.io/](marpolos.github.io/)
+- 👨‍💻 Visite meu portfólio [marpolos.github.io/](https://marpolos.github.io/)
 
 - ⚡ Fun fact **dançarina nas horas vagas, fitness das manhãs e cheia de livros na fila.**
 - ![Alt Text](https://media4.giphy.com/media/fw1im4D3MOLJnqm8TZ/giphy.gif?cid=ecf05e47v9z8xlrc9qf2sqx6itmqh4gnwxv7bq794h4nm4v6&rid=giphy.gif&ct=g)
